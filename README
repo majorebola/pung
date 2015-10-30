@@ -1,7 +1,8 @@
-# This is a Simple project.
-## Made by M.E.
+This is a Simple project.
+===================
+_Made by M.E._
 
-### *Keeping it simple as possibile (_KISAP_)*
+## *Keeping it simple as possibile (_KISAP_)*
 
 This is mainly a place where I make a collection of experiments. 
 Let's see what I get.
@@ -9,11 +10,11 @@ Let's see what I get.
 And trying to learn in the best way the Ecmascript6.
 And trying to develop a super-simple game.
 
-
-** ES6 ** Is a supercheap "pong" version.
-** shooter ** should be a supercheap "asteroids" version.
-** multiple_maps ** is an experiment with multiple markers map.
-** map ** is a new complex experiment using maps api, allowing a simple animation.
+## Projects
+* **ES6** Is a supercheap "pong" version.
+* **shooter** should be a supercheap "asteroids" version.
+* **multiplemaps** is an experiment with multiple markers map.
+* **map** is a new complex experiment using maps api, allowing a simple animation.
 
 The less, the better.
 
