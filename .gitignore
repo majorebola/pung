@@ -1,0 +1,3 @@
+#simple git_ignore
+.idea
+*.iml
