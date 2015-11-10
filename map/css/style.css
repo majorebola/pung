@@ -32,9 +32,16 @@ body {
 }
 .progress .determinate {
 	position: absolute;
-	background-color: inherit;
 	top: 0;
 	bottom: 0;
 	background-color: #26a69a;
 	transition: width .3s linear; 
+}
+
+
+/* Progress Text */
+.text {
+	font-size: 18pt;
+	text-align: center;
+	margin: 5pt;
 }

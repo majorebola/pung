@@ -14,7 +14,7 @@ And trying to develop a super-simple game.
 * **ES6** Is a supercheap "pong" version.
 * **shooter** should be a supercheap "asteroids" version.
 * **multiplemaps** is an experiment with multiple markers map.
-* **map** is a new complex experiment using maps api, allowing a simple animation.
+* **map** is a new complex experiment using maps api, allowing a simple animation. - Server php required
 
 The less, the better.
 
