@@ -43,7 +43,7 @@ var input = {
 	down: false,
 	left: false,
 	right: false
-}
+};
 
 class Bullet {
 	constructor(element, x, y, h, s) {
